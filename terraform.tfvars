@@ -1,2 +1,2 @@
-aws-profile       = "ds-web-products-staging"
-aws-region        = "eu-west-3"
+aws-profile       = "saswat"
+aws-region        = "us-west-1"
